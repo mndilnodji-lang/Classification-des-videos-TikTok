@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📝 Description du Projet
-L'objectif de ce projet était de créer un modèle de régression linéaire multiple et de forêt aléatoire pour prédire les pourboires des grands voyageurs ou non. Ce projet a utilisé les trajets de taxis jaunes effectués dans la villede New York en 2017. Le modèle final de forêt aléatoire a fonctionné avec une précision de 86% et une exactitude de 72% déterminant quelles caractéristiques étaient les plus importantes pour séparer les low tippers des high tippers. 
+L'objectif de ce projet était de Construire un modèle d'apprentissage automatique (machine learning) capable de déterminer si une vidéo contient une affirmation factuelle ou s'il s'agit d'une opinion. Ce qui permettra à TikTok de réduire l'accumulation des signalements d'utilisateurs et les hiérarchiser plus efficacement. Le modèle final de forêt aléatoire a fonctionné avec une précision de 86% et une exactitude de 72% déterminant quelles caractéristiques étaient les plus importantes pour séparer les low tippers des high tippers. 
 D'après le modèle, la durée, la distance et le coût du trajet ont eu le plus d'influence sur la détermination
 d'un pourboire généreux (>20%) par rapport à un pourboire non généreux (<20%).
 
